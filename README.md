@@ -5,7 +5,7 @@ You can find a pretty verison of the code in .html format inside /docs directory
 
 
 
-<img src="https://img.shields.io/badge/language-python-4AAB26 ">
+<img src="https://img.shields.io/badge/language-python-4AAB26">
 ![version](https://img.shields.io/badge/version-3.7-blue)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
