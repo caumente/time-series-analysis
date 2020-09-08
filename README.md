@@ -2,3 +2,14 @@ In this project is analyzed a time series about electricity demand in 2015. It i
 Finally, you could check how to create a forecast model using fbprophet library to predict how the serie should behave in the future.
 
 You can find a pretty verison of the code in .html format inside /docs directory.
+
+- build status
+- issues (waffle.io maybe)
+- devDependencies
+- npm package
+- coverage
+- slack
+- downloads
+- gitter chat
+- license
+- etc.
