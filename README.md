@@ -3,13 +3,10 @@ Finally, you could check how to create a forecast model using fbprophet library 
 
 You can find a pretty verison of the code in .html format inside /docs directory.
 
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/carlos-aumente-maestro13101993
