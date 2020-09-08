@@ -4,6 +4,11 @@ Finally, you could check how to create a forecast model using fbprophet library 
 You can find a pretty verison of the code in .html format inside /docs directory.
 
 
+![version](https://img.shields.io/badge/version-1.2.3-blue)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+<img src="https://img.shields.io/badge/language-python-5555ff">
+<img src="https://img.shields.io/badge/version-3.7-5CC634">
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
