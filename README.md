@@ -4,13 +4,8 @@ Finally, you could check how to create a forecast model using fbprophet library 
 You can find a pretty verison of the code in .html format inside /docs directory.
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/caumente/time-series-analysis/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/carlos-aumente-maestro13101993
