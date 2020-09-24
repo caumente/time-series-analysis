@@ -13,4 +13,4 @@ You can find a pretty verison of the code in .html format inside /docs directory
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/carlos-aumente-maestro13101993
+[linkedin-url]: https://linkedin.com/in/caumente
